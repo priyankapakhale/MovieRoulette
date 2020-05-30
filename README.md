@@ -1,2 +1,0 @@
-# MovieRoulette
-Created with CodeSandbox
